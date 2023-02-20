@@ -58,6 +58,11 @@ python3 Catalyzer.py -f /file/path -c StartingOffset:Endingoffset  ex : 00000000
 python3 Catalyzer.py -f /file/path -d StartingOffset:Endingoffset  ex : 00000000:00000100 -s hex or base64
 ```
 
+## Quick Walk Through
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/tn6A4xVBoGU/0.jpg)](https://youtu.be/tn6A4xVBoGU)
+
+
 ## Caveat
 This is an automated tool which means it relies on signatures and things in a particular order and could be fooled by malware authors. so use it in your initial assessment and carry it out from there.
 
