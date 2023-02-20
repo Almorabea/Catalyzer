@@ -1,0 +1,4 @@
+binary2strings==0.1.9
+filetype==1.2.0
+pefile==2023.2.7
+pyzipper==0.3.6
