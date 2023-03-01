@@ -17,7 +17,7 @@ outputTXT = []
 
 def Interesting (file):
     global  outputTXT
-    interesting = ["cmd", "powershell", "wmi", "http", "shell", "hta", "mshta","dos","program","invoke","base64","echo",""]
+    interesting = ["cmd", "powershell", "wmi", "http", "shell", "hta", "mshta","dos","program","invoke","base64","echo"]
     try:
         print()
         outputTXT.append("**********Start Of Interesting Information**********\n")
